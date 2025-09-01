@@ -1,0 +1,71 @@
+------------------------------------------------------------
+-25
+1
+[0, 0, 0, 0]
+[-1, -1, -1, -1, -1, -1]
+[0, 0, 0, 0]
+knossos3
+malia5
+phaistos3
+zakros4
+zakros10
+phaistos8
+knossos6
+malia9
+knossos10
+malia10
+malia8
+knossos10
+Archaiologos_FAISTOS_2_false
+Archaiologos_KNOSSOS_4_true
+Archaiologos_ZAKROS_1_false
+Thiseas_MALIA_3_false_0
+------------------------------------------------------------
+205
+6
+[0, 0, 1, 0]
+[-1, -1, -1, -1, -1, 1]
+[0, 0, 0, 0]
+knossos7
+malia4
+phaistos5
+zakros3
+knossos9
+phaistos7
+phaistos7
+malia7
+knossosMin
+malia6
+malia1
+knossos8
+Archaiologos_MALIA_5_true
+Archaiologos_FAISTOS_4_true
+Archaiologos_ZAKROS_5_true
+Thiseas_KNOSSOS_6_true_2
+------------------------------------------------------------
+maliaAri
+phaistos6
+phaistos9
+phaistos6
+zakros6
+zakrosMin
+zakros6
+knossos5
+phaistos2
+zakrosAri
+phaistosAri
+phaistos5
+malia10
+malia5
+knossos4
+------------------------------------------------------------
+simple_-20__finding_-15_Model.Finding.Agalmataki@237280c8__simple_-10__finding_5_Model.Finding.Agalmataki@56fdbf4a__simple_10__finding_15_Model.Finding.DaxtylidiMinoa@4eae541b__simple_30__finding_15_toixografia[points=15-id=5-players_photographed=[0, 0]]__finding_20_toixografia[points=20-id=2-players_photographed=[0, 0]]
+simple_-20__finding_-15_Model.Finding.Agalmataki@43a8a6ec__simple_-10__finding_5_Model.Finding.Agalmataki@74eb1a91__simple_10__finding_15_Model.Finding.Agalmataki@4fd7fca9__simple_30__finding_35_Model.Finding.KosmimaMaliwn@73e577c4__finding_15_toixografia[points=15-id=3-players_photographed=[0, 0]]
+simple_-20__finding_-15_Model.Finding.DiskosFaistou@757c2092__simple_-10__finding_15_toixografia[points=15-id=6-players_photographed=[0, 1]]__simple_10__finding_15_Model.Finding.Agalmataki@596f833e__simple_30__finding_35_Model.Finding.Agalmataki@29ad0e0e__finding_20_toixografia[points=20-id=4-players_photographed=[0, 0]]
+simple_-20__finding_-15_Model.Finding.Agalmataki@71ae17a8__simple_-10__finding_5_Model.Finding.Agalmataki@6542c1bf__simple_10__finding_15_Model.Finding.Agalmataki@4011c85a__simple_30__finding_20_toixografia[points=20-id=1-players_photographed=[0, 0]]__finding_50_Model.Finding.RytoZakrou@10d6328
+[[-1, 0, -1, -2, -1, -2, -1, -1, -1], [-1, 1, -1, 1, -1, 1, -1, -1, -1], [-1, 1, -1, -1, -1, -1, -1, -1, -1], [-1, 1, -1, 1, -1, 1, -1, -1, -1]]
+------------------------------------------------------------
+0
+------------------------------------------------------------
+true
+-1
